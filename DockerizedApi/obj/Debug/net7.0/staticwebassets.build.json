@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mN9fxowARDa+mahvuPxqEir+pkijNAhAxiGjObV27Wg=",
+  "Source": "DockerizedApi",
+  "BasePath": "_content/DockerizedApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
